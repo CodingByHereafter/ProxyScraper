@@ -4,6 +4,7 @@ Scrape thousands of proxies within seconds! HTTPS/SOCKS4/SOCKS5
 Setup:
 
 	pip install click
+	pip install requests
 	
 Usage:
 
